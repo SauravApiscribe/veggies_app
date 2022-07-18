@@ -12,7 +12,7 @@ class Logo extends StatelessWidget {
     return Container(
       height: height,
       child: Image.asset(
-        Assets.imagesLogo,
+        Assets.imagesLogoe,
         fit: BoxFit.cover,
       ),
     );

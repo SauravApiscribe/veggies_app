@@ -15,8 +15,8 @@ class HomeScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             SlidersAndBanners(),
-            TopSavers(),
-            Categories(),
+            // TopSavers(),
+            // Categories(),
           ],
         ),
       ),

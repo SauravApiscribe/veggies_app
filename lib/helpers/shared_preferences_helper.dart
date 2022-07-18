@@ -12,7 +12,6 @@ class SharedPreferencesHelper {
   static final String lastName = 'lastName';
   static final String doesHoldMembership = 'doesHoldMembership';
   static final String isEmailVerified = 'isEmailVerified';
-
   static final String cart = 'cart';
 
   static Future<String> getValue(String key) async {

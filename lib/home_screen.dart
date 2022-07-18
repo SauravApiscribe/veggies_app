@@ -100,7 +100,7 @@ class _HomeState extends State<Home> {
           ),
         ],
       ),
-      body: VeggiesScreen(),
+      body: HomeScreen(),
     );
   }
 }
